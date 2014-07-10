@@ -1,6 +1,8 @@
 # ¿Cómo nos pasamos la pelota?
 ### Un recorrido por el mundial de la Selección Argentina
 
+Miralo online acá: [thevizmachine.github.com/alospasesitos](http://thevizmachine.github.io/alospasesitos/)
+
 Desarrollado por [The Viz Machine](http://twitter.com/thevizmachine).
 
 * Data y foto: [FIFA](http://resources.fifa.com)
