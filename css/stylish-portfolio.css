@@ -126,7 +126,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/bih.jpg) no-repeat center center fixed; 
+  background: url(../img/bos2.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -140,7 +140,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/irn.jpg) no-repeat center center fixed; 
+  background: url(../img/irn2.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -154,7 +154,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/nig.jpg) no-repeat center center fixed; 
+  background: url(../img/nig2.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -168,7 +168,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/sui.jpg) no-repeat center center fixed; 
+  background: url(../img/sui2.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -182,7 +182,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/bel.jpg) no-repeat center center fixed; 
+  background: url(../img/bel2.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -196,7 +196,22 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/hol.jpg) no-repeat center center fixed; 
+  background: url(../img/hol2.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+/* Full Page Image BIH Area */
+
+.ale {
+  display: table;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background: url(../img/ale2.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
